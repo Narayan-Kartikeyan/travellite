@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "294703838025",
+    "project_id": "travel-lite-7irmx2",
+    "storage_bucket": "travel-lite-7irmx2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294703838025:android:8297c0199c49909cb3e098",
+        "android_client_info": {
+          "package_name": "com.mycompany.travellite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294703838025-9mt6is3rrserqa9bcp0fgt9nbh8rl7r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.travellite",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "294703838025-6ndknqija0suqh8trem9t1pd0vokr783.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkWdqgzZLbXlTE2uK9HFu_I5nGl1CXmGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294703838025-6ndknqija0suqh8trem9t1pd0vokr783.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294703838025-cirfg50ujkh7pttpfg79u4nvaplmq3nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.travellite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+ C:\\Users\\Admin\\Desktop\\travellite\\travel_lite\\.dart_tool\\flutter_build\\7aeb691779a5f2b90042b4a547300494\\native_assets.yaml: 
